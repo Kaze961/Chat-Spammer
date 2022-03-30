@@ -6,3 +6,6 @@ How to use:
   F4 for Multi-Spam,
   F5 for Simple-Spam,
   F6 for Stop,
+
+Multi-Spam = All 3 Messages randomly
+Simple-Spam = First Message
